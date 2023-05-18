@@ -17,7 +17,7 @@ $ npm install reactjs-push-notification
 ## Example
 
 ```javascript
-import { pushNotification } from "reactjs-push-notification";
+import { pushNotification, NotificationPrompt } from "reactjs-push-notification";
 
 const Push = () => {
     const buttonClick = () => {
@@ -29,6 +29,7 @@ const Push = () => {
     };
     return (
         <div className="page">
+            <NotificationPrompt />
             <button onClick={buttonClick} className="button">
                 Push Notifications
             </button>
