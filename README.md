@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100" style="display: block; margin: 0 auto;">
+
 # Reactjs Push Notifications
 
 A solution for pushing browser web notification! `reactjs-push-notification` is an npm package that allows you to push notifications to the browser. It can be used with both Next.js and React.js. The package is easy to use and provides a variety of customization options.
