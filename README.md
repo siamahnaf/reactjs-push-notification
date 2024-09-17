@@ -10,6 +10,7 @@ A solution for pushing browser web notification! `reactjs-push-notification` is 
 - It has been tested in Chrome, Firefox, and Safari.
 - It is well-documented and includes examples.
 
+
 ## Installing
 
 ```bash
