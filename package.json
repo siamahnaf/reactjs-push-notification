@@ -1,6 +1,6 @@
 {
   "name": "reactjs-push-notification",
-  "version": "2.0.0",
+  "version": "2.1.8",
   "description": "A solution for pushing browser web notification!",
   "homepage": "https://github.com/siamahnaf/reactjs-push-notification",
   "main": "dist/cjs/index.js",
